@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `about` TEXT NOT NULL 

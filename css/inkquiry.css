@@ -1,0 +1,71 @@
+.white{
+    color:#fff;
+}
+
+.no-margin{
+    margin-bottom:0px;
+}
+
+.center{
+    text-align: center;   
+}
+
+.uber-center{
+    text-align: center;   
+    padding: 20px,20px,20px,20px;
+}
+
+#login{
+ margin-right:5px;   
+}
+
+.modal-form-center{
+    text-align: center;
+}
+
+.marginAddLarge{
+    margin-bottom: 60px;  
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.marginAddSmall{
+    margin-bottom: 20px;   
+    
+}
+
+.checkPad{
+ padding-left: 23px;   
+}
+
+.footerPad{
+    padding-bottom:60px;
+}
+
+img {
+    width:auto;
+    max-width:100%;
+    height:auto;
+}
+
+#profile{
+    max-height: 150px;
+    max-width: 150px;
+}
+
+#userAbout{
+    text-indent: 30px;   
+}
+
+.infoWell{
+    max-width: 340px;
+    padding: 8px 0;
+}
+.error{
+    color:red;
+    font-size=25px;
+}
+
+category{
+ width: 345px;   
+}
